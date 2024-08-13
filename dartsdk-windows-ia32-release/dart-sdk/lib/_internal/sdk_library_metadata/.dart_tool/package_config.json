@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "sdk_library_metadata",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2024-08-12T22:38:00.736351Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.5"
+}
